@@ -55,28 +55,28 @@
 
 <h3 align="center">⇨ ʜᴇʀᴏᴋᴜ</h3>
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/animeheacen/Link-Sharing-">
+  <a href="https://heroku.com/deploy?template=https://github.com/animeheacen/Link-Sharing">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </p>
 
 <h3 align="center">⇨ ᴋᴏʏᴇʙ</h3>
 <p align="center">
-  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/animeheacen/Link-Sharing-&branch=main">
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/animeheacen/Link-Sharing&branch=main">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy to Koyeb">
   </a>
 </p>
 
 <h3 align="center">⇨ ʀᴀɪʟᴡᴀʏ</h3>
 <p align="center">
-  <a href="https://railway.app/deploy?template=https://github.com/animeheacen/Link-Sharing-">
+  <a href="https://railway.app/deploy?template=https://github.com/animeheacen/Link-Sharing">
     <img height="45px" src="https://railway.app/button.svg" alt="Deploy on Railway">
   </a>
 </p>
 
 <h3 align="center">⇨ ʀᴇɴᴅᴇʀ</h3>
 <p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/animeheacen/Link-Sharing-">
+  <a href="https://render.com/deploy?repo=https://github.com/animeheacen/Link-Sharing">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
   </a>
 </p>
