@@ -84,7 +84,7 @@
 <h3 align="center">⇨ ᴠᴘs</h3>
 
 ```bash
-git clone https://github.com/animeheacen/Link-Sharing-
+git clone https://github.com/animeheacen/Link-Sharing
 cd Link-Sharing-
 pip install -r requirements.txt
 python3 main.py
