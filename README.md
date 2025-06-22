@@ -43,7 +43,11 @@
 
 ## 💻 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 
-/start - Start bot or handle join requests /stats - View bot uptime and stats /users - Total users using the bot /broadcast - Send a message to all users /channelpost - Get encrypted join links /reqpost - Get request-only join links /setchannel - Add a new channel /delchannel - Remove a channel
+/start - Start bot or handle join requests 
+/stats - View bot uptime and stats /users - Total users using the bot /broadcast - Send a message to all users 
+/channelpost - Get encrypted join links 
+/reqpost - Get request-only join links 
+/setchannel - Add a new channel /delchannel - Remove a channel
 
 ---
 
@@ -87,14 +91,11 @@ python3 main.py
 
 ---
 
-🧑‍💻 ᴄʀᴇᴅɪᴛs
+## 🧑‍💻 ᴄʀᴇᴅɪᴛs
 
-👑 Developer: Hunter
-
-📣 Channel: Bots Kingdom
-
-📂 Repo: Link-Sharing Bot
-
+- 👑 Developer: [Hunter](https://t.me/Otakukart7)  
+- 📣 Channel: [Bots Kingdom](https://t.me/BotsKingDoms)  
+- 📂 Repo: [Link-Sharing Bot](https://github.com/animeheacen/Link-Sharing-)
 
 
 ---
